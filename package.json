@@ -2,12 +2,12 @@
   "name": "visual-test-critical-deploy",
   "company": "AFP Modelo",
   "author": "Jorge Epuñan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "pageres": "^6.2.4"
   },
   "engines": {
-    "node": ">14.x.x"
+    "node": "14.x.x"
   }
 }
