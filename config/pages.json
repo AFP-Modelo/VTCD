@@ -6,5 +6,45 @@
     {
         "name": "Incorporaciones",
         "url": "/incorporaciones"
+    },
+    {
+        "name": "Evolución Valor Cuota",
+        "url": "/evolucion-valor-cuota"
+    },
+    {
+        "name": "Estructura de comisiones",
+        "url": "/sistema-de-comisiones/estructura-de-comisiones"
+    },
+    {
+        "name": "Formulario de Contacto",
+        "url": "/centro-contacto/formulario-contacto"
+    },
+    {
+        "name": "Descarga de Certificados",
+        "url": "/afiliados/tramites-herramientas/descarga-certificados"
+    },
+    {
+        "name": "Descarga Certificado Afiliación",
+        "url": "/afiliados/tramites-herramientas/descarga-certificados/certificado-afiliacion"
+    },
+    {
+        "name": "Descarga Certificado Cotizaciones",
+        "url": "/afiliados/tramites-herramientas/descarga-certificados/certificado-cotizacion"
+    },
+    {
+        "name": "Centro de Contacto",
+        "url": "/centro-contacto"
+    },
+    {
+        "name": "Estados Financieros",
+        "url": "/estados-financieros"
+    },
+    {
+        "name": "Validar Certificados",
+        "url": "/empleadores/herramientas-empleadores/validar-certificados"
+    },
+    {
+        "name": "Trámites y Herramientas Pensionados",
+        "url": "/afiliados/tramites-herramientas#pensionados"
     }
 ]
