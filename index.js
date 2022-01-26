@@ -2,6 +2,8 @@ const Pageres = require('pageres');
 
 const pages = require('./config/pages.json');
 
+require('events').EventEmitter.defaultMaxListeners = 25;
+
 const date = new Date();
 const dateFormat = `${date.getFullYear()}/${String(date.getMonth() + 1).padStart(2, '0')}/${date.getDate()}/${date.toLocaleTimeString('es-ES', {hour12: false})}`;
 
