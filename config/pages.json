@@ -46,5 +46,9 @@
     {
         "name": "Trámites y Herramientas Pensionados",
         "url": "/afiliados/tramites-herramientas#pensionados"
+    },
+    {
+        "name": "Simulador de Pensiones",
+        "url": "/centro-contacto/herramientas/simulador-pension"
     }
 ]
